@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lingtouPannellum/static/css/main.6d95f84f.chunk.css",
-    "main.js": "/lingtouPannellum/static/js/main.c0e17385.chunk.js",
+    "main.js": "/lingtouPannellum/static/js/main.ab472892.chunk.js",
     "runtime-main.js": "/lingtouPannellum/static/js/runtime-main.00ef4ffd.js",
     "static/css/2.c8b8068d.chunk.css": "/lingtouPannellum/static/css/2.c8b8068d.chunk.css",
     "static/js/2.93cbbc50.chunk.js": "/lingtouPannellum/static/js/2.93cbbc50.chunk.js",
@@ -60,11 +60,6 @@
     "static/media/8.faafdc36.jpg": "/lingtouPannellum/static/media/8.faafdc36.jpg",
     "static/media/9.1300e7a4.jpg": "/lingtouPannellum/static/media/9.1300e7a4.jpg",
     "static/media/9.279bcb09.jpg": "/lingtouPannellum/static/media/9.279bcb09.jpg",
-    "static/media/SH-100.0111b7e8.jpg": "/lingtouPannellum/static/media/SH-100.0111b7e8.jpg",
-    "static/media/SH-160.852c42dc.jpg": "/lingtouPannellum/static/media/SH-160.852c42dc.jpg",
-    "static/media/SH-250.e972a05e.jpg": "/lingtouPannellum/static/media/SH-250.e972a05e.jpg",
-    "static/media/SH-350.f0628fa1.jpg": "/lingtouPannellum/static/media/SH-350.f0628fa1.jpg",
-    "static/media/SH-40.3450cc9d.jpg": "/lingtouPannellum/static/media/SH-40.3450cc9d.jpg",
     "static/media/pannellum.css": "/lingtouPannellum/static/media/sprites.c08944fe.svg",
     "static/media/icon_02.a0c18cd0.svg": "/lingtouPannellum/static/media/icon_02.a0c18cd0.svg",
     "static/media/icon_03.7146d07f.svg": "/lingtouPannellum/static/media/icon_03.7146d07f.svg",
@@ -72,15 +67,13 @@
     "static/media/icon_05.7eb0fc7f.svg": "/lingtouPannellum/static/media/icon_05.7eb0fc7f.svg",
     "static/media/logo.da37b56f.jpg": "/lingtouPannellum/static/media/logo.da37b56f.jpg",
     "static/media/map.b24e63dc.jpg": "/lingtouPannellum/static/media/map.b24e63dc.jpg",
-    "static/media/nextW.07e0d3ea.svg": "/lingtouPannellum/static/media/nextW.07e0d3ea.svg",
-    "static/media/view-1.5a07de19.jpg": "/lingtouPannellum/static/media/view-1.5a07de19.jpg",
-    "static/media/view-2.58d1fe07.jpg": "/lingtouPannellum/static/media/view-2.58d1fe07.jpg"
+    "static/media/nextW.07e0d3ea.svg": "/lingtouPannellum/static/media/nextW.07e0d3ea.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.00ef4ffd.js",
     "static/css/2.c8b8068d.chunk.css",
     "static/js/2.93cbbc50.chunk.js",
     "static/css/main.6d95f84f.chunk.css",
-    "static/js/main.c0e17385.chunk.js"
+    "static/js/main.ab472892.chunk.js"
   ]
 }
