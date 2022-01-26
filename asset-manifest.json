@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/lingtouPannellum/static/css/main.6d95f84f.chunk.css",
-    "main.js": "/lingtouPannellum/static/js/main.6d35e50d.chunk.js",
+    "main.js": "/lingtouPannellum/static/js/main.db52c2f3.chunk.js",
     "runtime-main.js": "/lingtouPannellum/static/js/runtime-main.00ef4ffd.js",
     "static/css/2.c8b8068d.chunk.css": "/lingtouPannellum/static/css/2.c8b8068d.chunk.css",
-    "static/js/2.24d66c9b.chunk.js": "/lingtouPannellum/static/js/2.24d66c9b.chunk.js",
+    "static/js/2.2a5db4f9.chunk.js": "/lingtouPannellum/static/js/2.2a5db4f9.chunk.js",
     "static/js/3.6600854b.chunk.js": "/lingtouPannellum/static/js/3.6600854b.chunk.js",
     "index.html": "/lingtouPannellum/index.html",
-    "static/js/2.24d66c9b.chunk.js.LICENSE.txt": "/lingtouPannellum/static/js/2.24d66c9b.chunk.js.LICENSE.txt",
+    "static/js/2.2a5db4f9.chunk.js.LICENSE.txt": "/lingtouPannellum/static/js/2.2a5db4f9.chunk.js.LICENSE.txt",
     "static/media/1.1f360e63.jpg": "/lingtouPannellum/static/media/1.1f360e63.jpg",
     "static/media/1.29d65d3a.jpg": "/lingtouPannellum/static/media/1.29d65d3a.jpg",
     "static/media/1.a7e046e0.jpg": "/lingtouPannellum/static/media/1.a7e046e0.jpg",
@@ -59,6 +59,8 @@
     "static/media/27.3f57dad7.jpg": "/lingtouPannellum/static/media/27.3f57dad7.jpg",
     "static/media/27.8cc0f039.jpg": "/lingtouPannellum/static/media/27.8cc0f039.jpg",
     "static/media/27.a4e866b9.jpg": "/lingtouPannellum/static/media/27.a4e866b9.jpg",
+    "static/media/28.76e5718e.jpg": "/lingtouPannellum/static/media/28.76e5718e.jpg",
+    "static/media/28.fafb25d6.jpg": "/lingtouPannellum/static/media/28.fafb25d6.jpg",
     "static/media/29.52825889.jpg": "/lingtouPannellum/static/media/29.52825889.jpg",
     "static/media/29.c6e93666.jpg": "/lingtouPannellum/static/media/29.c6e93666.jpg",
     "static/media/29.edee7b83.jpg": "/lingtouPannellum/static/media/29.edee7b83.jpg",
@@ -87,18 +89,16 @@
     "static/media/9.257f3854.jpg": "/lingtouPannellum/static/media/9.257f3854.jpg",
     "static/media/9.279bcb09.jpg": "/lingtouPannellum/static/media/9.279bcb09.jpg",
     "static/media/pannellum.css": "/lingtouPannellum/static/media/sprites.c08944fe.svg",
-    "static/media/icon_02.a0c18cd0.svg": "/lingtouPannellum/static/media/icon_02.a0c18cd0.svg",
-    "static/media/icon_03.7146d07f.svg": "/lingtouPannellum/static/media/icon_03.7146d07f.svg",
-    "static/media/icon_04.1a3ae95f.svg": "/lingtouPannellum/static/media/icon_04.1a3ae95f.svg",
     "static/media/icon_05.7eb0fc7f.svg": "/lingtouPannellum/static/media/icon_05.7eb0fc7f.svg",
     "static/media/logo.da37b56f.jpg": "/lingtouPannellum/static/media/logo.da37b56f.jpg",
+    "static/media/map_icon_01.16be865a.svg": "/lingtouPannellum/static/media/map_icon_01.16be865a.svg",
     "static/media/nextW.07e0d3ea.svg": "/lingtouPannellum/static/media/nextW.07e0d3ea.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.00ef4ffd.js",
     "static/css/2.c8b8068d.chunk.css",
-    "static/js/2.24d66c9b.chunk.js",
+    "static/js/2.2a5db4f9.chunk.js",
     "static/css/main.6d95f84f.chunk.css",
-    "static/js/main.6d35e50d.chunk.js"
+    "static/js/main.db52c2f3.chunk.js"
   ]
 }
